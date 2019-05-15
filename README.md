@@ -1,6 +1,5 @@
-## info
+## Info
 
-this script served as our team's final project during documentation week 
+This script served as our team's final project during documentation week.
 
-
-it's absolute garbage and kept only for nostalgic reasons
+It's garbage and kept only for nostalgic reasons, so please disregard.
